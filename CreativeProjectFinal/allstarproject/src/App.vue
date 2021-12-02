@@ -18,6 +18,7 @@
         <router-link to="/admin">Admin</router-link> |
         <router-link to="/stats">Stats</router-link>
       </h4>
+      <a href="https://github.com/bryandespain/CreativeProject4">GitHub</a>
     </div>
   </div>
 </template>
